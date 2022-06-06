@@ -255,3 +255,10 @@ Non-custodial multichain NFT marketplace, connected to Celo
 
 * [Website](https://raregems.io/)
 * [Celo NFT collections](https://raregems.io/celo)
+
+## Donut Protocol
+
+Donut Protocol is an open source aggregated credit risk assessment system
+
+* [Website](https://donut.global/)
+
